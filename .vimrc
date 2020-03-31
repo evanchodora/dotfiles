@@ -1,4 +1,6 @@
 "======= COLORSCHEME
+"set background=dark
+"colorscheme solarized
 colorscheme badwolf
 
 "======= VIM SETTINGS
